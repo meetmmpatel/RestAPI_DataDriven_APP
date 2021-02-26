@@ -10,6 +10,13 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="/src/test/resources/features/All_USER_API.feature">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="/src/test/resources/features/GET_ProductAPI.feature">
           <value>
             <Attribute>
